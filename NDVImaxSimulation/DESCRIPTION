@@ -1,12 +1,12 @@
 Package: NDVImaxSimulation
-Type: Package
-Title: What the Package Does (Title Case)
+Type: R Package
+Title: For calculate annual max NDVI with climate data
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Xinyue Zhang
+Maintainer: Xinyue Zhang <xyzhang2021@gmail.com>
+Description: This function is related to TSSRESTREND method which can find here: https://github.com/ArdenB/TSSRESTREND/. With the output 
+from TSSattribution and monthly climate data, annual max NDVI can be calculated. 
+License: GPL-3
 Encoding: UTF-8
 NeedsCompilation: no
 Packaged: 2022-12-04 04:25:03 UTC; z5340889
